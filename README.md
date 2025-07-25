@@ -7,11 +7,7 @@ The AI Competitor Intelligence Agent Team is a powerful competitor analysis tool
 Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_competitor_intelligence_agent_team
-   ```
-
+   
 2. **Install the dependencies**:
     ```bash
     pip install -r requirements.txt
