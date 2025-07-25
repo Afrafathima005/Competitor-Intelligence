@@ -4,3 +4,4 @@ duckduckgo-search==7.2.1
 agno
 streamlit==1.41.1
 fpdf==1.7.2
+plotly
