@@ -1,6 +1,6 @@
 # 🧲 AI Competitor Intelligence Agent Team
 
-The AI Competitor Intelligence Agent Team is a powerful competitor analysis tool powered by Firecrawl and Agno's AI Agent framework. This app helps businesses analyze their competitors by extracting structured data from competitor websites and generating actionable insights using AI.
+The AI Competitor Intelligence Agent Team is a powerful competitor analysis tool. This app helps businesses analyze their competitors by extracting structured data from competitor websites and generating actionable insights using AI.
 
 ## How to Run
 
